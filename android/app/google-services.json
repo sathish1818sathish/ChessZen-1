@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142592562264",
+    "project_id": "chess-zen",
+    "storage_bucket": "chess-zen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142592562264:android:9fbaf1a86e3bc7a89e262d",
+        "android_client_info": {
+          "package_name": "com.aistudio.chesszen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142592562264-hmidug4l237hv684vqvpkvnkr272coc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.chesszen.app",
+            "certificate_hash": "aabbccdd11223344556677889900112233445566"
+          }
+        },
+        {
+          "client_id": "142592562264-b1evuom0n7em2uak470jj6e2irqgkoh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQLSMeMERrm6zXa_GMeVNLkL8CLC1IEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142592562264-b1evuom0n7em2uak470jj6e2irqgkoh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
